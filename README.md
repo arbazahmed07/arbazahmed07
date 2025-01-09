@@ -41,13 +41,11 @@ I love building impactful projects that solve real-world problems. Some of my ke
 ---
 
 ## 🤝 **Let's Connect!**  
-- 🌐 [**Portfolio**](#)(https://mdarbz.vercel.app)  
-- 💼 [**LinkedIn**](www.linkedin.com/in/mohammad-arbaz-ahmed-0a6446290)  
-- 📧 Reach me at **arbazahmed1729.@gmail.com**
+- 🌐 [**Portfolio**](https://mdarbaz.vercel.app)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/mohammad-arbaz-ahmed-0a6446290)  
+- 📧 Reach me at **arbazahmed1729@gmail.com**
 
 ---
 
 ## 🛠️ **Profile Customization in Progress...**
-Stay tuned for updates! ✨  
-
----
+Stay tuned for updates! ✨
