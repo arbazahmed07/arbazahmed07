@@ -1,7 +1,3 @@
-Here’s a visually enhanced and more engaging version of your "About Me" section, designed to stand out on your GitHub profile. It includes emojis, markdown-based styling, and call-to-action links to give it a modern and interactive look:
-
----
-
 # 👋 Hi, I'm **Arbaz**  
 🎓 **CSE Student** at **VNR VJIET** | 💻 **Full-Stack Developer** | 🌱 Passionate about **App Development** and **Open Source**
 
@@ -45,10 +41,9 @@ I love building impactful projects that solve real-world problems. Some of my ke
 ---
 
 ## 🤝 **Let's Connect!**  
-- 🌐 [**Portfolio**](#) *(Link to your portfolio)*  
-- 💼 [**LinkedIn**](https://www.linkedin.com/)  
-- 🐦 [**Twitter**](https://twitter.com/)  
-- 📧 Reach me at **your.email@example.com**
+- 🌐 [**Portfolio**](#)(https://mdarbz.vercel.app)  
+- 💼 [**LinkedIn**](www.linkedin.com/in/mohammad-arbaz-ahmed-0a6446290)  
+- 📧 Reach me at **arbazahmed1729.@gmail.com**
 
 ---
 
@@ -56,13 +51,3 @@ I love building impactful projects that solve real-world problems. Some of my ke
 Stay tuned for updates! ✨  
 
 ---
-
-### Optional Additions:  
-If you'd like animations:  
-- Add **GIFs** (from sites like Giphy) that align with your personality or projects.  
-- Use interactive GitHub widgets, such as:  
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)  
-  - [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)  
-  - [Visitor Badge](https://visitor-badge.glitch.me/)
-
-This makes your GitHub profile **dynamic, fun, and engaging**. Let me know if you'd like help adding any specific animations or interactive elements!
