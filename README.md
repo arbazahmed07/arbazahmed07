@@ -36,7 +36,7 @@ I love building impactful projects that solve real-world problems. Some of my ke
 ## 🎉 **Fun Facts About Me**  
 - 🔥 I enjoy solving coding challenges in **C++** and exploring Python for **data science**.  
 - ✈️ I’m a travel enthusiast who loves creating tools to plan seamless journeys.  
-- 🏆 I’ve contributed to multiple open-source projects and resolved complex issues for organizations like **AOSSIE**.
+- 🏆 I’ve contributed to multiple open-source projects.
 
 ---
 
