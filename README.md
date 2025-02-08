@@ -5,9 +5,9 @@
 
 ## 🚀 **What I Do**  
 I love building impactful projects that solve real-world problems. Some of my key projects include:  
-- 🌾 **Farm Connect App**: Connecting farmers directly to retailers to maximize their profits.  
-- 🧠 **Mental Health App**: Leveraging **sentiment analysis** to support individuals in need.  
-- 🗺️ **Travel Itinerary Generator**: A data science project to craft personalized travel plans.  
+- 🎥 **Anime Explorer**: A platform for exploring and discovering anime.  
+- 💬 **Chat App**: A real-time messaging app built with the MERN stack.  
+- 🔍 **Lost and Found**: An app designed to help people find and report lost items.  
 
 ---
 
@@ -24,9 +24,18 @@ I love building impactful projects that solve real-world problems. Some of my ke
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
 
+### Database  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)  
+
+### Tools & Others  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)  
+
 ---
 
-## 🎯 **Current Focus**
+## 🎯 **Current Focus**  
 - 🌟 Building a **React video editor app** with approval workflows for YouTube uploads.  
 - 🔍 Exploring **open-source opportunities** and **Hacktoberfest contributions**.  
 - 📖 Learning more about **competitive programming** and **Bayesian Neural Networks**.  
@@ -41,11 +50,11 @@ I love building impactful projects that solve real-world problems. Some of my ke
 ---
 
 ## 🤝 **Let's Connect!**  
-- 🌐 [**Portfolio**](https://mdarbaz.vercel.app)  
+- 🌐 [**Portfolio**](https://arbazmd.vercel.app)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/mohammad-arbaz-ahmed-0a6446290)  
 - 📧 Reach me at **arbazahmed1729@gmail.com**
 
 ---
 
-## 🛠️ **Profile Customization in Progress...**
+## 🛠️ **Profile Customization in Progress...**  
 Stay tuned for updates! ✨
