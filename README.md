@@ -1,6 +1,4 @@
 
----
-
 # 👋 Hi, I'm **Arbaz**  
 🎓 **CSE Student** at **VNR VJIET** | 💻 **Full-Stack Developer** | 🌱 Passionate about **App Development**, **Open Source**, and **Competitive Programming**  
 
