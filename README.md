@@ -1,4 +1,3 @@
-Here’s your updated profile with the **Mental Health App** and **React Video Editor** removed and **Event Management System** and **Blog App** added:  
 
 ---
 
