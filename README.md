@@ -1,24 +1,27 @@
-
 # 👋 Hi, I'm **Arbaz**  
 🎓 **CSE Student** at **VNR VJIET** | 💻 **Full-Stack Developer** | 🌱 Passionate about **App Development**, **Open Source**, and **Competitive Programming**  
 
 ---
 
 ## 🚀 **What I Do**  
-I love building impactful projects that solve real-world problems. Some of my key projects include:  
+I love building impactful projects that solve real-world problems. I'm especially passionate about full-stack development, AI, and gamification. Some highlights of my work include:
 
-- 🎥 **Anime Explorer** – A platform for exploring and discovering anime.  
-- 💬 **Chat App** – A real-time messaging app built with the MERN stack.  
-- 🔍 **Lost and Found** – An app designed to help people find and report lost items.  
-- 🌾 **Farm Connect** – A platform connecting farmers with retailers, eliminating middlemen.  
-- 📚 **Library Management System** – MERN-based system with WhatsApp reminders and Razorpay integration.  
-- 🛫 **Travel Itinerary Generator** – A data science project that helps plan seamless travel itineraries.  
-- 🎭 **Event Management System** – A platform to organize and manage events efficiently.  
-- 📝 **Blog App** – A web application for writing, sharing, and managing blogs.  
+- 🎥 Built **Anime Explorer** – A blazing fast anime streaming platform using Next.js, SSG/SSR, and HLS.  
+- 💬 Created a **Chat App** with real-time messaging, group chats, and online presence using Socket.io.  
+- 🔍 Developed **Lost and Found** – a platform to help people report and find lost items in real-time.  
+- 🌾 Launched **Farm Connect** – connects farmers with retailers, eliminating middlemen.  
+- 📚 Engineered a full **Library Management System** with Razorpay payment gateway and WhatsApp Cloud API reminders.  
+- ✈️ Built a **Travel Itinerary Generator** that optimizes travel plans using smart data processing.  
+- 🎭 Organized events seamlessly with my **Event Management System**.  
+- 📝 Published and managed articles using the **Blog App** with role-based access control.  
+- ✂️ Created **AI Background Remover** – an AI-powered tool with payment integration to remove image backgrounds.  
+- 🤖 Built an **AI Bot using Gemini API** with the MERN stack.  
+- 🏆 Won a hackathon with my **Gamified Habit Tracker**, which makes productivity fun and engaging.  
 
 ---
 
 ## 💡 **Skills & Tech Stack**  
+
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
@@ -56,11 +59,24 @@ I love building impactful projects that solve real-world problems. Some of my ke
 
 ---
 
+## 🔝 Top Contributed Repo  
+
+> Check out my top-contributed repo on GitHub – coming soon!
+
+---
+
+## 📊 **GitHub Stats**  
+![Arbaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbazahmed07&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+## 📈 **My Activity Graph**  
+![Arbaz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arbazahmed07&theme=github-compact&hide_border=true)
+
+---
+
 ## 🤝 **Let's Connect!**  
 - 🌐 [**Portfolio**](https://arbazmd.vercel.app)  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/mohammad-arbaz-ahmed-0a6446290)  
 - 📧 Reach me at **arbazahmed1729@gmail.com**  
 - 🏆 [**GitHub**](https://github.com/arbazahmed07)  
-
----
-
