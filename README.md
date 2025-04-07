@@ -65,10 +65,6 @@ I love building impactful projects that solve real-world problems. I'm especiall
 
 ---
 
-## 📊 **GitHub Stats**  
-![Arbaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arbazahmed07&show_icons=true&theme=github_dark&hide_border=true)
-
----
 
 ## 📈 **My Activity Graph**  
 ![Arbaz's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arbazahmed07&theme=github-compact&hide_border=true)
