@@ -61,7 +61,7 @@
 
 ```mermaid
 graph TD
-    A[🔍 Open Source Contributions] --> B[Hacktoberfest 2024]
+    A[🔍 Open Source Contributions] --> B[GSOC]
     C[📖 Learning & Research] --> D[Bayesian Neural Networks]
     C --> E[Competitive Programming]
     F[🤖 AI Development] --> G[Chatbots & AI Tools]
