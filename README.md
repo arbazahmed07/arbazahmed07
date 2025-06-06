@@ -29,7 +29,7 @@
 | 📈 **Investment Marketplace** | Real-time investment analysis | React, WebSocket |
 | 🧠 **AI Career Coach** | Career guidance system | Next.js, Prisma |
 | 💬 **Virtual Assistant** | Smart Q&A bot | AI, NLP |
-| 🏆 **Gamified Habit Tracker** | Hackathon-winning productivity tool | React Native |
+| 🏆 **Gamified Habit Tracker** | Hackathon-winning productivity tool | MERN STACK |
 
 </div>
 
