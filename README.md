@@ -35,13 +35,35 @@
 
 ## 💡 Skills & Tech Stack
 
+### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,tailwind,docker,mongodb,postgres,git,github,vscode&perline=7&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui&perline=8&theme=dark" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp&perline=6&theme=dark" alt="Backend Skills" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,gcp,vercel,aws&perline=7&theme=dark" alt="Database & Cloud" />
+</p>
+
+### 🛠️ Tools & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Tools" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=reactnative,expo&perline=2&theme=dark" alt="Mobile Development" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&fontSize=20&titleColor=58A6FF&lineCount=2&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2C000000%3Btailwindcss%2CTailwind%2C06B6D4%3B&line2=javascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bhtml5%2CHTML5%2CE34F26%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend&fontSize=20&titleColor=58A6FF&lineCount=2&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress%2C000000%3Bpython%2CPython%2C3776AB%3B&line2=mongodb%2CMongoDB%2C47A248%3Bpostgresql%2CPostgreSQL%2C336791%3Bmysql%2CMySQL%2C4479A1%3B" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&fontSize=20&titleColor=58A6FF&lineCount=3&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2C000000%3Btailwindcss%2CTailwind%2C06B6D4%3B&line2=javascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bhtml5%2CHTML5%2CE34F26%3B&line3=materialui%2CMaterial-UI%2C0081CB%3Breactnative%2CReact%20Native%2C61DAFB%3B" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20%26%20Database&fontSize=20&titleColor=58A6FF&lineCount=3&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress%2C000000%3Bpython%2CPython%2C3776AB%3B&line2=mongodb%2CMongoDB%2C47A248%3Bpostgresql%2CPostgreSQL%2C336791%3Bmysql%2CMySQL%2C4479A1%3B&line3=django%2CDjango%2C092E20%3Bjava%2CJava%2CED8B00%3Bcplusplus%2CC%2B%2B%2C00599C%3B" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20%26%20DevOps&fontSize=20&titleColor=58A6FF&lineCount=2&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=docker%2CDocker%2C2496ED%3Bgooglecloud%2CGCP%2C4285F4%3Baws%2CAWS%2CFF9900%3B&line2=vercel%2CVercel%2C000000%3Bgit%2CGit%2CF05032%3Bgithub%2CGitHub%2C181717%3B" />
 </div>
 
 ## 🎯 Current Focus
@@ -55,10 +77,13 @@ graph TD
     C --> E[Competitive Programming]
     F[🤖 AI Development] --> G[Chatbots & AI Tools]
     F --> H[MERN/Next.js Projects]
+    I[☁️ Cloud & DevOps] --> J[AWS & GCP Deployment]
+    I --> K[Docker Containerization]
     
     style A fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style C fill:#58A6FF,stroke:#1F6FEB,color:#fff
     style F fill:#58A6FF,stroke:#1F6FEB,color:#fff
+    style I fill:#58A6FF,stroke:#1F6FEB,color:#fff
 ```
 
 </div>
@@ -67,14 +92,18 @@ graph TD
 - 📖 Exploring **Bayesian Neural Networks** & **competitive programming**  
 - 🤖 Building **chatbots & AI tools** using **MERN/Next.js**
 - 🚀 Developing **full-stack applications** with modern tech stacks
+- ☁️ Learning **cloud deployment** with **AWS**, **GCP**, and **Docker**
 
 ## ✨ Fun Facts About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFA657&center=true&vCenter=true&width=500&lines=🔥+C%2B%2B+Problem+Solver;🐍+Python+AI+Explorer;✈️+Productivity+Tool+Builder;🧑‍💻+Freelance+Developer" alt="Fun Facts" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FFA657&center=true&vCenter=true&width=500&lines=🔥+C%2B%2B+Problem+Solver;🐍+Python+AI+Explorer;⚛️+React+%26+Next.js+Builder;☁️+Cloud+%26+DevOps+Learner;✈️+Productivity+Tool+Builder;🧑‍💻+Freelance+Developer" alt="Fun Facts" />
 </div>
 
 - 🔥 Solve coding challenges in **C++** & explore **AI with Python**  
+- ⚛️ Build modern web apps with **React**, **Next.js**, and **TypeScript**
+- ☁️ Deploy applications using **Docker**, **AWS**, and **GCP**
+- 📱 Develop cross-platform mobile apps with **React Native** and **Expo**
 - ✈️ Build tools to improve **productivity** and **decision-making**  
 - 🧑‍💻 Currently working as a **freelance developer**
 - 🎯 Always learning new technologies and best practices
