@@ -55,12 +55,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Tools" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frontend&fontSize=20&titleColor=58A6FF&lineCount=3&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=react%2CReact%2C61DAFB%3Bnextdotjs%2CNext.js%2C000000%3Btailwindcss%2CTailwind%2C06B6D4%3B&line2=javascript%2CJavaScript%2CF7DF1E%3Btypescript%2CTypeScript%2C3178C6%3Bhtml5%2CHTML5%2CE34F26%3B&line3=materialui%2CMaterial-UI%2C0081CB%3Breactnative%2CReact%20Native%2C61DAFB%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20%26%20Database&fontSize=20&titleColor=58A6FF&lineCount=3&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=node.js%2CNode.js%2C339933%3Bexpress%2CExpress%2C000000%3Bpython%2CPython%2C3776AB%3B&line2=mongodb%2CMongoDB%2C47A248%3Bpostgresql%2CPostgreSQL%2C336791%3Bmysql%2CMySQL%2C4479A1%3B&line3=django%2CDjango%2C092E20%3Bjava%2CJava%2CED8B00%3Bcplusplus%2CC%2B%2B%2C00599C%3B" />
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20%26%20DevOps&fontSize=20&titleColor=58A6FF&lineCount=2&theme=github_dark&bg=0D1117&badge=0D1017&border=30363D&titleBg=21262D&line1=docker%2CDocker%2C2496ED%3Bgooglecloud%2CGCP%2C4285F4%3Baws%2CAWS%2CFF9900%3B&line2=vercel%2CVercel%2C000000%3Bgit%2CGit%2CF05032%3Bgithub%2CGitHub%2C181717%3B" />
-</div>
-
 ## 🎯 Current Focus
 
 <div align="center">
