@@ -1,8 +1,10 @@
 # Hi, I'm Arbaz Ahmed 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arbaz+Ahmed+👋;Full-Stack+Developer+%7C+CSE+Student;Freelance+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Full-Stack%20Developer%20|%20CSE%20Student&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
+
+<h2 align="center">💻 Freelance Developer | 🤖 AI Enthusiast | 🚀 Building the Future with Code</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arbazahmed07&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile views" />
