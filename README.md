@@ -1,11 +1,11 @@
-<!-- Typing SVG -->
+<!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Arbaz+Ahmed;Full-Stack+Developer+%7C+CSE+Student;Freelance+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Arbaz+Ahmed;Full-Stack+Developer+%7C+CSE+Student;Freelance+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arbazahmed07&style=for-the-badge&label=Profile+Views&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arbazahmed07&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 - 🔥 Solve coding challenges in **C++** & explore **AI with Python**  
 - ✈️ Build tools to improve productivity and decision-making  
-- 🧑‍💻 Currently working as a **freelance developer**  
+- 🧑‍💻 Currently working as a **freelance developer**
 
 ---
 
@@ -62,8 +62,21 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://arbaaz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammad-arbaz-ahmed-0a6446290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arbazahmed1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/arbazahmed07"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Portfolio with light/dark support -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=vercel&logoColor=000000">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </picture>
+
+  <br /><br />
+
+  <a href="https://linkedin.com/in/mohammad-arbaz-ahmed-0a6446290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arbazahmed1729@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/arbazahmed07">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
