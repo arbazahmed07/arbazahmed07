@@ -100,7 +100,7 @@ graph TD
 
 <div align="center">
   <p>
-    <a href="https://arbaaz.vercel.app" target="_blank">
+    <a href="https://www.arbazmd.me/" target="_blank">
       <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" title="Portfolio" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
