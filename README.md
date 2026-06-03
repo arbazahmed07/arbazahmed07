@@ -1,172 +1,200 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=140&section=header&text=Arbaz%20Ahmed%20Mohammad&fontSize=32&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%40%20VNR%20VJIET&descSize=16&descAlignY=75" alt="Header" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=💻+Full-Stack+%26+Freelance+Developer;🤖+AI+Enthusiast+%26+Builder;🚀+Shipping+Products+%26+Winning+Hackathons;✨+Turning+Ideas+Into+Production+Apps" alt="Typing SVG" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arbaz%20Ahmed%20Mohammad&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CSE%20%40%20VNR%20VJIET&descSize=15&descAlignY=75&descColor=a78bfa" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arbazahmed07&style=for-the-badge&label=PROFILE+VIEWS&color=0e75b6" alt="Profile views" />
-  <img src="https://img.shields.io/badge/CGPA-9.38%2F10-brightgreen?style=for-the-badge" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Hackathon-1st%20Place%20Webathon%203.0-gold?style=for-the-badge" alt="Hackathon Winner" />
-</p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-grade+full-stack+apps;Shipping+AI-powered+products;Winning+hackathons+%F0%9F%8F%86;Open+source+contributor)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a **Computer Science Engineering** student at VNR VJIET (2023–27) with a **9.38 CGPA**, passionate about building full-stack products that solve real problems. I've shipped production systems for startups, won national hackathons, and contribute to open source.
+<a href="https://www.arbazmd.me/"><img src="https://img.shields.io/badge/🌐 Portfolio-arbazmd.me-7c3aed?style=for-the-badge&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohammad-arbaz-ahmed-0a6446290"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arbazahmed1729@gmail.com"><img src="https://img.shields.io/badge/Gmail-arbazahmed1729-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/arbazahmed07"><img src="https://img.shields.io/badge/GitHub-arbazahmed07-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-- 🏢 Currently: **Full Stack Developer @ AirePro Solutions Pvt Ltd**
-- 🌐 Portfolio: [arbazmd.me](https://www.arbazmd.me/)
-- 📬 Reach me: arbazahmed1729@gmail.com
-- 🏆 Hackathon Winner | Top 2% competitive programmer | Open Source contributor
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/CGPA-9.38%20%2F%2010-22c55e?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Hackathon-🏆 Webathon 3.0 Winner-f59e0b?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=arbazahmed07&style=flat-square&label=Profile+Views&color=7c3aed" />
 
-## 🏢 Experience
+</div>
 
-<table>
-  <tr>
-    <td><strong>🏢 AirePro Solutions Pvt Ltd</strong></td>
-    <td><strong>Full Stack Developer</strong></td>
-    <td>Jul 2025 – Jan 2026</td>
-  </tr>
-</table>
-
-- Built end-to-end full-stack features across frontend and backend systems
-- Containerized applications using **Docker** and automated deployments with **CI/CD pipelines**
-- Worked on **SQL databases** and a **microservices architecture** to improve backend performance and reliability
-
-<table>
-  <tr>
-    <td><strong>🔮 All India Institute of Occult Science, Delhi</strong></td>
-    <td><strong>Software Developer Intern</strong></td>
-    <td>Jun 2025 – Jul 2025</td>
-  </tr>
-</table>
-
-- Converted Figma designs into responsive UIs using **Next.js**, **Express.js**, and **MongoDB**
-- Implemented **authentication**, **RBAC**, **SendGrid** email notifications, and fuzzy search
-- Deployed production system on **AWS (EC2, S3)** with automated **CI/CD pipelines**
-
-<table>
-  <tr>
-    <td><strong>🛒 ShopU, Remote Bihar</strong></td>
-    <td><strong>Full Stack Developer Intern</strong></td>
-    <td>Apr 2025 – Jun 2025</td>
-  </tr>
-</table>
-
-- Implemented **Twilio OTP authentication** and converted Figma designs with **Next.js**
-- Developed key e-commerce services using **Prisma** for reliable inventory and order handling
-- Integrated payment workflows and mentored junior interns on API design and DevOps fundamentals
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ About Me
+
+> B.Tech Computer Science Engineering student at **VNR Vignana Jyothi Institute of Engineering and Technology** (2023–27), holding a **9.38 CGPA**. I build real products — from AI-powered platforms to e-commerce backends — and have shipped systems used in production at multiple startups.
+
+```ts
+const arbaz = {
+  location   : "Hyderabad, India 🇮🇳",
+  currently  : "Full Stack Developer @ AirePro Solutions Pvt Ltd",
+  education  : "B.Tech CSE @ VNR VJIET  |  CGPA: 9.38",
+  passions   : ["Full-Stack Dev", "AI/ML", "Open Source", "Competitive Programming"],
+  contact    : "arbazahmed1729@gmail.com",
+};
+```
+
+---
+
+## ◈ Experience
+
+<br/>
+
+**`🚀 AirePro Solutions Pvt Ltd`** &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; `Jul 2025 – Jun 2026`
+
+> - Delivered end-to-end full-stack features spanning frontend and backend systems
+> - Containerized applications with **Docker** and automated deployments via **CI/CD pipelines**
+> - Designed **microservices architecture** backed by SQL databases to boost performance and reliability
+
+<br/>
+
+**`🔮 All India Institute of Occult Science, Delhi`** &nbsp;·&nbsp; Software Developer Intern &nbsp;·&nbsp; `Jun 2025 – Jul 2025`
+
+> - Built responsive UIs from Figma designs using **Next.js**, **Express.js**, and **MongoDB**
+> - Implemented **authentication**, **RBAC**, **SendGrid** email notifications, and fuzzy search
+> - Deployed production system on **AWS (EC2, S3)** with automated CI/CD pipelines
+
+<br/>
+
+**`🛍️ ShopU`** &nbsp;·&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `Apr 2025 – Jun 2025`
+
+> - Integrated **Twilio OTP authentication** and built responsive storefronts with **Next.js**
+> - Developed e-commerce services using **Prisma** for reliable inventory and order management
+> - Integrated payment workflows; mentored junior interns on API design and DevOps fundamentals
+
+---
+
+## ◈ Featured Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 OrionAI — Engineering Intelligence Workspace
+`React` `Node.js` `Weaviate` `Gemini API` `WebSockets`
+
+AI-powered workspace consolidating project discussions, meeting summaries, and contextual onboarding with low-latency insights.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/arbazahmed07) [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square)](https://github.com/arbazahmed07)
+
+</td>
+<td width="50%">
+
+### 📚 Little Library — Library Management System
+`MERN` `Azure` `GitHub Actions` `Jest` `Twilio`
+
+Deployed on Azure with a custom domain. Features automated testing, CI/CD pipelines, and WhatsApp/SMS notifications.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/arbazahmed07) [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square)](https://github.com/arbazahmed07)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 LearnLab — Interactive Learning Platform
+`MERN` `Manim` `AI Agent` `Multilingual`
+
+AI-powered platform with prompt-based video generation, simulations, quizzes, and offline + multilingual access.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/arbazahmed07) [![Live](https://img.shields.io/badge/Live-Demo-7c3aed?style=flat-square)](https://github.com/arbazahmed07)
+
+</td>
+<td width="50%">
+
+### 🏆 Gamified Habit Tracker
+`MERN Stack`
+
+Hackathon-winning productivity tool that turns habits into an engaging game. Built under time pressure at a national-level competition.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>↓ View more projects</b></summary>
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎥 Anime Explorer | Blazing-fast anime streaming platform | Next.js, HLS, SSR |
+| 💬 Chat App | Real-time messaging | Socket.io, MERN |
+| 🔍 Lost & Found | Real-time lost item tracking | React, Node.js |
+| 🎭 Event Management | One-stop event organizer | MERN Stack |
+| 📝 Blog Platform | Role-based publishing | Next.js, Prisma |
+| ✂️ AI Background Remover | AI image processing with payments | Python, Stripe |
+| 📈 Investment Marketplace | Real-time investment analysis | React, WebSocket |
+| 🧠 AI Career Coach | Career guidance system | Next.js, Prisma |
+| 💬 Gemini AI Bot | Intelligent chatbot | MERN, Gemini API |
+
+</details>
+
+---
+
+## ◈ Tech Stack
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **[OrionAI](https://github.com/arbazahmed07)** | AI engineering workspace — discussions, meeting summaries & contextual onboarding | React, Node.js, Weaviate, Gemini API, WebSockets |
-| 📚 **[Little Library](https://github.com/arbazahmed07)** | Library management with CI/CD, testing & Azure deployment | MERN, Azure, GitHub Actions, Jest, Twilio |
-| 🎓 **[LearnLab](https://github.com/arbazahmed07)** | AI learning platform with prompt-based videos, simulations & multilingual support | MERN, Manim, AI Agent |
-| 🎥 **Anime Explorer** | Blazing fast anime streaming platform | Next.js, HLS, SSR |
-| 💬 **Chat App** | Real-time messaging application | Socket.io, MERN |
-| 🔍 **Lost & Found** | Real-time lost item tracking platform | React, Node.js |
-| 🎭 **Event Management** | One-stop event organizer | MERN Stack |
-| 📝 **Blog Platform** | Role-based publishing tools | Next.js, Prisma |
-| ✂️ **AI Background Remover** | AI-powered image processing | Python, Stripe |
-| 📈 **Investment Marketplace** | Real-time investment analysis | React, WebSocket |
-| 🧠 **AI Career Coach** | Career guidance system | Next.js, Prisma |
-| 🏆 **Gamified Habit Tracker** | Hackathon-winning productivity tool | MERN Stack |
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,materialui&theme=dark" />
+
+**Backend & Languages**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp&theme=dark" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,aws,azure,gcp,vercel&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 💡 Tech Stack
+## ◈ Achievements
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,materialui&perline=8&theme=dark" alt="Frontend Skills" />
-</p>
+<br/>
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp&perline=6&theme=dark" alt="Backend Skills" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker,azure,aws,gcp,vercel&perline=8&theme=dark" alt="Database & Cloud" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4&theme=dark" alt="Tools" />
-</p>
+```
+🥇  Webathon 3.0 Winner (2025)           1st place — national-level web hackathon
+💻  CodeFrenzy Top 2%                    Inter IIT Programming Conclave Participant  
+🌍  HacktoberFest 2024 Contributor       Active open-source contributions
+🔐  Microsoft × TataStrive (2024)        Cyber Security Certification — 40 hrs
+🌐  TURINGHUT Core Member (2025)         Led coding competitions & open-source culture on campus
+```
 
 ---
 
-## 🏆 Achievements
+## ◈ Connect
 
-| 🥇 | **Webathon 3.0 Winner (2025)** — 1st place at national-level hackathon |
-|---|---|
-| 💻 | **Top 2% in CodeFrenzy** — Inter IIT Programming Conclave Participant |
-| 🌍 | **HacktoberFest 2024 Contributor** — Active open-source contributions |
-| 🔐 | **Microsoft-TataStrive Cyber Security Certification (2024)** — 40-hour course on network security |
-| 🌐 | **Web Developer & Core Member — TURINGHUT (2025)** — Led coding competitions & open-source culture |
+<div align="center">
+<br/>
 
----
+<a href="https://www.arbazmd.me/"><img src="https://img.shields.io/badge/-arbazmd.me-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/mohammad-arbaz-ahmed-0a6446290"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:arbazahmed1729@gmail.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/arbazahmed07"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 📊 Competitive Programming
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CodeChef-Rating%201615-orange?style=for-the-badge&logo=codechef" />
-  <img src="https://img.shields.io/badge/LeetCode-Rating%201768-yellow?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Codeforces-Rating%201230-blue?style=for-the-badge&logo=codeforces" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Always+open+to+collaborate;💡+Let's+build+something+great)](https://git.io/typing-svg)
 
----
+</div>
 
-## 📈 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbazahmed07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazahmed07&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arbazahmed07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.arbazmd.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohammad-arbaz-ahmed-0a6446290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arbazahmed1729@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/arbazahmed07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=⭐+Star+my+repositories!;🤝+Open+to+collaborations!;💡+Open+to+opportunities!" alt="Footer Message" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=80&section=footer" alt="Footer Wave" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&reversal=true" />
